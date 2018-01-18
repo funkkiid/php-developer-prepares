@@ -1,6 +1,8 @@
 # PHP 开发者实践
 PHP Developer Prepares
 
+> 本开源书 forked from [PHP 开发者实践](https://github.com/zacao/php-developer-prepares)，作者为 [zacao](https://github.com/zacao)，欢迎大家 star 原作者的 [repo](https://github.com/zacao/php-developer-prepares)，以便获得最新更新，谢谢！
+
 坚持了 5 年的创业项目决定结束了（行业垂直搜索方向，理想很美好、现实很骨感），作为没混好的草根站长 & 没被风吹起来的小互联网公司技术合伙人，个人基本见证了这几年 PHP 环境的发展（当然主要归功于互联网创业风潮大爆发），感受了一些 PHP 团队和从业者的现状；同时，我们自身在 PHP 研发团队组建过程中也遇到了不少问题，一直想把创业过程中遇到的这些团队实践相关问题整理、总结一下，目前只是个初始版本，欢迎大家拍砖 & 加入！
 
 技术的发展日新月异，我会持续维护、跟进这个项目，欢迎各位有兴趣的朋友 [提交建议、问题 - Issue](https://github.com/zacao/php-developer-prepares/issues) 或 [参与贡献、分享 - Pull Request](https://github.com/zacao/php-developer-prepares/pulls)。
